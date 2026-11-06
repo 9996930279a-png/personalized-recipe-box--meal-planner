@@ -1,1 +1,1 @@
-# personalized-recipe-box--meal-planner
+# personalized-recipe-box-&-meal-planner
